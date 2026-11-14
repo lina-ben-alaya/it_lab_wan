@@ -4,7 +4,6 @@ Plateforme pédagogique interactive pour les travaux pratiques de l'Atelier Tech
 
 Auteure : Lina Ben Alaya · Classe : RSI31 · Établissement : ISET Nabeul
 
-Démo en ligne : https://VOTRE-IDENTIFIANT.github.io/it-lab/
 
 Sommaire
 Présentation
@@ -72,9 +71,9 @@ En ligne : ouvrir le lien de démonstration.
 En local :
 
 bash
-git clone https://github.com/VOTRE-IDENTIFIANT/it-lab.git
-cd it-lab
 
+cd it-lab
+voici le lien du LAB : file:///C:/Users/PC/Downloads/IT%20LAB%20%E2%80%93%20Lina%20Ben%20Alaya,%20RSI31.html#tp-tp1a
 Puis ouvrir index.html dans un navigateur.
 
 Publication sur GitHub Pages :
@@ -101,13 +100,7 @@ Ajouter ou corriger un TP revient à modifier ce tableau.
 
 Intégrer une simulation ActivePresenter
 
-Les démonstrations enregistrées avec ActivePresenter (Atomi Systems) s'ajoutent ainsi :
 
-Dans ActivePresenter, exporter le projet en HTML5.
-Copier le dossier exporté dans simulations/<identifiant-du-tp>/.
-Dans le mode Observer du TP, pointer vers simulations/<identifiant-du-tp>/index.html.
-
-Les fichiers source .approj peuvent être rangés dans un dossier activepresenter/.
 
 Limites
 Aucune commande n'est exécutée sur un équipement réel : la console compare la saisie à la commande de l'énoncé.
