@@ -67,6 +67,7 @@ Utilisation
 Le site tient dans un seul fichier, sans installation ni serveur.
 
 En ligne : ouvrir le lien de démonstration.
+file:///C:/Users/PC/Downloads/IT%20LAB%20%E2%80%93%20Lina%20Ben%20Alaya,%20RSI31.html#accueil
 
 En local :
 
